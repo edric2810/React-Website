@@ -5,6 +5,7 @@ import Home from "./pages/Home";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./styles/App.css";
 import { YoutubeData } from "./YoutubeData";
+import Toggle from "./components/state/Toggle";
 
 function App() {
   return (

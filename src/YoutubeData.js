@@ -1,9 +1,7 @@
 export const YoutubeData = [
   {
     id: 1,
-    image:
-      // "https://images.unsplash.com/photo-1580414057403-c5f451f30e1c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGFtYm9yZ2hpbml8ZW58MHx8MHx8fDA%3D",
-      "https://source.unsplash.com/random/500x250/?super-car", // => Copy dòng này dán vào item khác để thấy sự khác biệt
+    image: "https://source.unsplash.com/random/500x250/?super-car", // => Copy dòng này dán vào item khác để thấy sự khác biệt
     avatar:
       "https://plus.unsplash.com/premium_photo-1668211358705-b758b5d7f7cf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjV8fGRvZ3xlbnwwfHwwfHx8MA%3D%3D",
     author: "Dog",

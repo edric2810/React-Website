@@ -8,6 +8,12 @@
 .youtube-image {
   height: 250px;
   margin-bottom: 15px;
+  opacity: 70%;
+  transition: 0.3s;
+}
+
+.youtube-image:hover {
+  opacity: 100%;
 }
 
 .youtube-image img {
